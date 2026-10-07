@@ -18,9 +18,12 @@ This repository contains the functional test suites, baseline security assertion
 | **TOTAL METRICS** | **34** | **28** | **6** | **Overall Platform Pass Stability Rate: 82.35%** |
 
 ## 🛠️ Local Environment Verification Loop Setup
-1. Clone this automation engine directory safely to your local verification node:
+## 🛠️ Local Environment Verification Loop Setup
+
+1. Clone this automation engine directory safely to your local machine:
    ```bash
    git clone https://github.com
    ```
-2. Open your choice API testing core client software wrapper application framework (e.g., **SoapUI** / **Postman**).
-3. Select **Import** and target the centralized collection asset files located inside the `/collections` path tracking folder.
+2. Open your choice API testing client framework app (e.g., **SoapUI** / **Postman**).
+3. Select **Import** and target the centralized project XML files located right inside the repository root directory.
+
